@@ -1,0 +1,33 @@
+2024-01-20 22:40:03,580 - INFO - cookies_handler - Page title : Dreams | Beds from the UK's Leading Bed & Mattress Store
+2024-01-20 22:40:03,583 - INFO - cookies_handler - Page URL : https://www.dreams.co.uk/
+2024-01-20 22:40:06,771 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:45:42,968 - INFO - cookies_handler - Page title : Dreams | Beds from the UK's Leading Bed & Mattress Store
+2024-01-20 23:45:42,972 - INFO - cookies_handler - Page URL : https://www.dreams.co.uk/
+2024-01-20 23:45:46,036 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:45:46,036 - INFO - register_credentials - row:2,FirstName:holand,LastNameBar,Emai:holand@bar.com,Password:Lg123456@
+2024-01-20 23:45:46,711 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:45:46,711 - INFO - register_credentials - row:3,FirstName:ben,LastNameholly,Emai:ben@holly.com,Password:Bn123456@
+2024-01-20 23:47:19,804 - INFO - cookies_handler - Page title : Dreams | Beds from the UK's Leading Bed & Mattress Store
+2024-01-20 23:47:19,809 - INFO - cookies_handler - Page URL : https://www.dreams.co.uk/
+2024-01-20 23:47:22,882 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:47:22,882 - INFO - register_credentials - row:2,FirstName:holand,LastNameBar,Emai:holand@bar.com,Password:Lg123456@
+2024-01-20 23:47:23,552 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:47:23,552 - INFO - register_credentials - row:3,FirstName:ben,LastNameholly,Emai:ben@holly.com,Password:Bn123456@
+2024-01-20 23:50:28,380 - INFO - cookies_handler - Page title : Dreams | Beds from the UK's Leading Bed & Mattress Store
+2024-01-20 23:50:28,383 - INFO - cookies_handler - Page URL : https://www.dreams.co.uk/
+2024-01-20 23:50:31,333 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:50:31,334 - INFO - register_credentials - row:2,FirstName:holand,LastNameBar,Emai:holand@bar.com,Password:Lg123456@
+2024-01-20 23:50:32,002 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:50:32,002 - INFO - register_credentials - row:3,FirstName:ben,LastNameholly,Emai:ben@holly.com,Password:Bn123456@
+2024-01-20 23:52:32,957 - INFO - cookies_handler - Page title : Dreams | Beds from the UK's Leading Bed & Mattress Store
+2024-01-20 23:52:32,960 - INFO - cookies_handler - Page URL : https://www.dreams.co.uk/
+2024-01-20 23:52:35,790 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:52:35,790 - INFO - register_credentials - row:2,FirstName:Alex,LastNamecaap,Emai:holand@bar.com,Password:Lg123456@
+2024-01-20 23:52:36,459 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:52:36,459 - INFO - register_credentials - row:3,FirstName:ben,LastNameholly,Emai:ben@holly.com,Password:Bn123456@
+2024-01-20 23:53:38,517 - INFO - cookies_handler - Page title : Dreams | Beds from the UK's Leading Bed & Mattress Store
+2024-01-20 23:53:38,521 - INFO - cookies_handler - Page URL : https://www.dreams.co.uk/
+2024-01-20 23:53:41,430 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:53:41,430 - INFO - register_credentials - row:2,FirstName:Alex,LastNamecaap,Emai:holand@bar.com,Password:Lg123456@
+2024-01-20 23:54:02,099 - INFO - register_credentials - Page URL : https://www.dreams.co.uk/login/register
+2024-01-20 23:54:02,099 - INFO - register_credentials - row:3,FirstName:ben,LastNameholly,Emai:ben@holly.com,Password:Bn123456@
